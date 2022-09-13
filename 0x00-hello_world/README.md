@@ -1,1 +1,1 @@
-A script that generates the assebmly code (intel syntax) of a C code and save it in an output file
+A C program that prints the size of varius types on the computer it is compiled and run on
